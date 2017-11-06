@@ -29,21 +29,21 @@ Traitements:
 
 1. Lancement d'une nouveau projet:
 
-![Changement de config](/images/01.01_StructureDunProjet.png)
+![Changement de config](/images/day1//01.01_StructureDunProjet.png)
 
 2. Web.config
 
-![Changement de config](/images/01.02_WebConfig.png)
+![Changement de config](/images/day1//01.02_WebConfig.png)
 
 # Configuration de Visual Studio (Pour lancement plus facile).
 
-![Changement de config](/images/01.05_ChangementConfig.png)
+![Changement de config](/images/day1//01.05_ChangementConfig.png)
 
 Desactiver le "Enable Edit And Continue" permet de lancer le IIS une fois. Lorsqu'on stop le debuggeur, il ne stopperas pas IIS.
 
 Pour Stopper IIS on le stopperas directement sur IIS:
 
-![Changement de config](/images/01.06_StopIIS.png)
+![Changement de config](/images/day1//01.06_StopIIS.png)
 
 
 ## Comment ajouter un controller:
@@ -51,27 +51,27 @@ Pour Stopper IIS on le stopperas directement sur IIS:
 > Un controlleur c'est une **class** qui herite de **controleur** qui s'apelle **QqchControler.cs**. C'est tout (!)
 
 
-![Changement de config](/images/01.07_AddController1.png)
+![Changement de config](/images/day1//01.07_AddController1.png)
 
-![Changement de config](/images/01.07_AddController2.png)
+![Changement de config](/images/day1//01.07_AddController2.png)
 
-![Changement de config](/images/01.07_AddController3.png)
+![Changement de config](/images/day1//01.07_AddController3.png)
 
 Il cree le fichier suivant, avec un repertoir dans Views/Home
-![Changement de config](/images/01.07_AddController4.png)
+![Changement de config](/images/day1//01.07_AddController4.png)
 
 
 Lors du premier lancement, on a direct une erreur
 
-![Changement de config](/images/01.08_FirstRun.png)
+![Changement de config](/images/day1//01.08_FirstRun.png)
 
 On peut le faire pointer vers une autre methode:
 
-![Changement de config](/images/01.09_bob.png)
+![Changement de config](/images/day1//01.09_bob.png)
 
 Il va chercher de la maniere suivante:
 
-![Changement de config](/images/01.10_Cheminement.png)
+![Changement de config](/images/day1//01.10_Cheminement.png)
 
 ->
 
@@ -79,17 +79,17 @@ Il va chercher de la maniere suivante:
 
 
 
-![Changement de config](/images/01.11_CreationHTML.png)
+![Changement de config](/images/day1//01.11_CreationHTML.png)
 
-![Changement de config](/images/01.12_Result.png)
+![Changement de config](/images/day1//01.12_Result.png)
 
 ## Action Result:
 
 On peut retourner plein de choses differentes.
 
-![Changement de config](/images/01.13_ActionResult.png)
+![Changement de config](/images/day1//01.13_ActionResult.png)
 
 Action Result est la classe parente de tous les retours possible.
 Voir pour retourner du JSON, exemple ci dessous.
 
-![Changement de config](/images/01.14_ActionResultParent.png)
+![Changement de config](/images/day1//01.14_ActionResultParent.png)
