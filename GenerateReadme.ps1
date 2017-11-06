@@ -8,7 +8,7 @@ This repository contains my files, and notes of my learning path into the ASP.NE
 
 ### videos
 
-- TBD
+- [ASP.NET MVA JumpStart](https://www.microsoft.com/fr-fr/learning/exam-70-486.aspx)
 
 ### cheat cheets
 
