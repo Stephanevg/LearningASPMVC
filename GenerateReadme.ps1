@@ -1,6 +1,6 @@
 set-location C:\Users\taavast3\OneDrive\Scripting\ASP.NET\LearningASPMVC\
 $a = @"
-# Django learning repo
+# ASP.NET MVC Learning repo
 
 This repository contains my files, and notes of my learning path into the ASP.NET MVC world.
 
