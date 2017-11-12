@@ -10,6 +10,17 @@ This repository contains my files, and notes of my learning path into the ASP.NE
 
 - [ASP.NET MVA JumpStart](https://www.microsoft.com/fr-fr/learning/exam-70-486.aspx)
 
+## Creating and configuring models
+- [ASP.NET MVA JumpStart](https://mva.microsoft.com/en-us/training-courses/introduction-to-asp-net-mvc-8322?l=4fo2g9Zy_1404984382)
+
+## Creating and configuring models
+-[ASP.NET MVA JumpStart](https://mva.microsoft.com/en-us/training-courses/introduction-to-asp-net-mvc-8322?l=Omf358Zy_1604984382)
+
+## Creating and configuring models
+
+## Deux secondes
+- [ASP.NET MVA JumpStart](https://mva.microsoft.com/en-us/training-courses/introduction-to-asp-net-mvc-8322?l=4fo2g9Zy_1404984382)
+
 ### cheat cheets
 
 - TBD
